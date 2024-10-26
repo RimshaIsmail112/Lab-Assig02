@@ -244,7 +244,7 @@ form button {
 
 form button:hover {
     background-color: #6070FF;
-    color: #fff;
+    color:white;
 }
 
 /* Responsive design */
@@ -259,5 +259,6 @@ form button:hover {
 
     .project:nth-child(even) {
         flex-direction: column;
+
     }
 }
